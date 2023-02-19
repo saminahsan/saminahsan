@@ -8,7 +8,8 @@
 <tr>
   <td valign="center">    
     <ul>
-      <li style="none">🎓 Currently pursuing my <b>BSc. in Computer Science & Engineering</b></li>
+      <li style="none">🏢 Intern at <b>Square Health Ltd. </b> </li>
+      <li style="none">🎓<b>BSc. in Computer Science & Engineering</b></li>
       <li>🌱 Interested in <b>Software Engineering</b> & <b>Web Development</b></li>
       <li>✨ I love <b>learning</b> new things!</li>
     </ul>

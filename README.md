@@ -62,8 +62,8 @@
 
 
 ## Stats 📈
-  ![Samin's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedyGonzal0&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedyGonzal0&layout=compact)](https://github.com/speedyGonzal0/github-readme-stats)
+  ![Samin's GitHub stats](https://github-readme-stats.vercel.app/api?username=saminahsan&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saminahsan&layout=compact)](https://github.com/saminahsan/github-readme-stats)
   
 
 

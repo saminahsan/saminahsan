@@ -24,7 +24,7 @@
 ## Let's Talk 💬
   <a href = "https://www.linkedin.com/in/samin-ahsan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href = "mailto: samin.ahsan@1497@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href = "https://saminahsan.me/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+  <a href = "https://saminahsan.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
   <a href = "https://leetcode.com/speedyGonzal0/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 

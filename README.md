@@ -5,8 +5,8 @@
 <tr>
   <td valign="center">    
     <ul>
-      <li>🎓<b>BSc. in Computer Science & Engineering</b></li>
-      <li>🌱 Interested in <b>Software Engineering</b> & <b>Web Development</b></li>
+      <li>🎓<b>B.Sc. in Computer Science & Engineering</b></li>
+      <li>🌱 Interested in <b>Software Engineering, Security, Optimization, & Analysis</b></li>
       <li>✨ I love <b>learning</b> new things!</li>
     </ul>    
     
